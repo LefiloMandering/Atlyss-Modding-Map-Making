@@ -7,7 +7,7 @@ In this tutorial you will learn the following information:
 2. Learn how to utilize the Asset Bundle Browser to create your own Asset Bundles.
 3. Learn how the ATLYSS scripts work for Map Making as well as understanding how NetIDs function in maps.
 
-To get started on creating a Map, go to the [Wiki](https://github.com/Peliex/ATLYSSModdingDocumentation/wiki) for the tutorial.
+To get started on creating a Map, go to the [Wiki](https://github.com/LefiloMandering/Atlyss-Modding-Map-Making/wiki) for the tutorial.
 
 This is a partial up to date version of the [ATLYSSModdingDocumentation](https://github.com/Peliex/ATLYSSModdingDocumentation).
 
