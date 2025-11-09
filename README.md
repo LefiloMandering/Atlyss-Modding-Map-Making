@@ -2,6 +2,9 @@
 
 > ⚠️ This is wiki is in work in progress.
 
+‼️Creating maps requires a specific version of Unity similar to the version ATLYSS runs. `2022.3.62f2`.
+If you have problems installing, please refer to [Unity Support Help Center](https://support.unity.com/hc/en-us/articles/28179325110548-I-can-t-download-the-Unity-Editor).
+
 In this tutorial you will learn the following information:
 1. Learn how to decompile and asset rip ATLYSS to port over to Unity.
 2. Learn how to utilize the Asset Bundle Browser to create your own Asset Bundles.
