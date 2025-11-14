@@ -15,3 +15,5 @@ To get started on creating a Map, go to the [Wiki](https://github.com/LefiloMand
 This is a partial up to date version of the [ATLYSSModdingDocumentation](https://github.com/Peliex/ATLYSSModdingDocumentation).
 
 If you want to learn how to make mods for Atlyss, consider joining the [Atlyss Modding Central](https://discord.gg/hQceRJ7pEW).
+
+If you have an issue in regards to Maploader having bugs or any map related questions, consider make an issue in [Issues](https://github.com/LefiloMandering/Atlyss-Modding-Map-Making/issues).
