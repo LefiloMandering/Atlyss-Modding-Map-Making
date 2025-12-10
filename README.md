@@ -1,6 +1,6 @@
 # Welcome to the Atlyss Map Making Tutorial
 
-> ⚠️ This is wiki is in work in progress.
+> ⚠️ This wiki is in work in progress.
 
 ‼️Creating maps requires a specific version of Unity similar to the version ATLYSS runs. `2022.3.62f2`.
 If you have problems installing, please refer to [Unity Support Help Center](https://support.unity.com/hc/en-us/articles/28179325110548-I-can-t-download-the-Unity-Editor).
