@@ -12,7 +12,7 @@ If you have problems installing, please refer to [Unity Support Help Center](htt
 
 ---
 
-To get started on creating a Map, go to the [Wiki](https://github.com/LefiloMandering/Atlyss-Modding-Map-Making/wiki) for the tutorial.
+To get started on creating a Map, go to the [Wiki](https://github.com/LefiloMandering/Atlyss-Modding-Map-Making/wiki/0.-Maploader-Map-Wiki-Homepage) for the tutorial.
 
 This is a partial up to date version of the [ATLYSSModdingDocumentation](https://github.com/Peliex/ATLYSSModdingDocumentation).
 
