@@ -21,3 +21,5 @@ If you want to learn how to make mods for Atlyss, consider joining the [Atlyss M
 If you want to learn how to make maps or want feedback on maps, consider joining [Atlyss Maploader Central](https://discord.gg/PMkM24drGE)
 
 If you have an issue in regards to Maploader having bugs or any map related questions, consider making an issue in [Issues](https://github.com/LefiloMandering/Atlyss-Modding-Map-Making/issues). Others can also use Issues as a way to learn from others as well.
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
