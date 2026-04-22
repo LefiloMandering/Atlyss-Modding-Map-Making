@@ -16,9 +16,9 @@ To get started on creating a Map, go to the [Wiki](https://github.com/LefiloMand
 
 This is a partial up to date version of the [ATLYSSModdingDocumentation](https://github.com/Peliex/ATLYSSModdingDocumentation).
 
-If you want to learn how to make mods for Atlyss, consider joining the [Atlyss Modding Central](https://discord.gg/hQceRJ7pEW).
-
 If you want to learn how to make maps or want feedback on maps, consider joining [Atlyss Maploader Central](https://discord.gg/PMkM24drGE)
+
+If you want to learn the creation of Custom Emotes work, consider reading [Wolfkann's Guide to Custom Emoted](https://github.com/WolfKann/Atlyss-Custom-Emotes)
 
 If you have an issue in regards to Maploader having bugs or any map related questions, consider making an issue in [Issues](https://github.com/LefiloMandering/Atlyss-Modding-Map-Making/issues). Others can also use Issues as a way to learn from others as well.
 
